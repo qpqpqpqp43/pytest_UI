@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_get_baidu",
+      "children" : [ {
+        "name" : "打开百度搜索测试",
+        "uid" : "aa35765279c84b8f",
+        "parentUid" : "fc2869eeb91e21d6030f602fe98b6352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646446149950,
+          "stop" : 1646446156055,
+          "duration" : 6105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc2869eeb91e21d6030f602fe98b6352"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.test_get_baidu",
+    "children" : [ {
+      "name" : "打开百度搜索测试",
+      "uid" : "aa35765279c84b8f",
+      "parentUid" : "aedcccc0c83b5d3dc3285d3df25d258c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646446149950,
+        "stop" : 1646446156055,
+        "duration" : 6105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "case.test_get_baidu"
+  } ]
+}

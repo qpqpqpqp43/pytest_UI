@@ -1,0 +1,11 @@
+[ {
+  "uid" : "aa35765279c84b8f",
+  "name" : "打开百度搜索测试",
+  "time" : {
+    "start" : 1646446149950,
+    "stop" : 1646446156055,
+    "duration" : 6105
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

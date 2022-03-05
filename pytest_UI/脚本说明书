@@ -1,0 +1,13 @@
+本项目用的是pytest框架写的UI自动化脚本框架
+common文件夹:封装的读写数据库,Excel,csv,yaml脚本
+config:配置文件,改配置就在这里面改
+case:放测试代码
+data:放测试文件，或者其它文件
+logs:放错误日志
+driver:放selenium浏览器内核
+allure-2.17.1:allure报告，要把path+/allure-2.17.1/bin加到系统变量
+report:测试报告
+conftest:浏览器对象，等类
+Construction_of_operation_environment:下载需要的库
+runner:程序运行
+report/environment.properties:写运行环境,不支持中文,用例全部执行完了把这个复制到allure_result目录下

@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "搜索功能",
+    "children" : [ {
+      "name" : "打开百度搜索测试",
+      "uid" : "aa35765279c84b8f",
+      "parentUid" : "1efc265c3091a27732948b78ec22e045",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646446149950,
+        "stop" : 1646446156055,
+        "duration" : 6105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1efc265c3091a27732948b78ec22e045"
+  } ]
+}

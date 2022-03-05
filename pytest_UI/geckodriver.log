@@ -1,0 +1,170 @@
+1646387784793	geckodriver	INFO	Listening on 127.0.0.1:43817
+1646387787422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "43818" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile8tJdvR"
+1646387787917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile8tJdvR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43818/devtools/browser/15fde6df-9ca5-4d50-b6a8-616402f97413
+1646387793993	Marionette	INFO	Listening on port 43825
+1646387794378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646387797327	Marionette	INFO	Stopped listening on port 43825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1646387896117	geckodriver	INFO	Listening on 127.0.0.1:43875
+1646387899192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "43876" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHyAn7Z"
+1646387899541	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHyAn7Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43876/devtools/browser/0d99caa2-f58e-4bff-b25a-24cf62d77003
+1646387904491	Marionette	INFO	Listening on port 43882
+1646387905000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646387907063	Marionette	INFO	Stopped listening on port 43882
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646388988237	geckodriver	INFO	Listening on 127.0.0.1:49870
+1646388991380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49871" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileKlg9hX"
+1646388992176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileKlg9hX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49871/devtools/browser/4cd201a9-55f2-45a0-a011-52bd544214fb
+1646388997918	Marionette	INFO	Listening on port 49876
+1646388998475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646389369130	Marionette	INFO	Stopped listening on port 49876
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+ficate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646389109417	Marionette	INFO	Stopped listening on port 49995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646389248391	geckodriver	INFO	Listening on 127.0.0.1:50216
+1646389251472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50217" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileC9oaSt"
+1646389251837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileC9oaSt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50217/devtools/browser/0d03e1f0-c74d-4c7d-8dd6-abf621098692
+1646389256449	Marionette	INFO	Listening on port 50222
+1646389256756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1646389369073	Marionette	INFO	Stopped listening on port 50222
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+[Child 14628, MediaDecoderStateMachine #1] WARNING: 1e252058120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1646389369075	Marionette	INFO	Stopped listening on port 50371
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHal::Msg_ModifyWakeLock) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1646445596678	geckodriver	INFO	Listening on 127.0.0.1:16765
+1646445599862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16766" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileg4vZDG"
+1646445600732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileg4vZDG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16766/devtools/browser/8161fa49-3cd4-496f-9277-dee43ed5a259
+1646445606339	Marionette	INFO	Listening on port 16771
+1646445606841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646445613053	Marionette	INFO	Stopped listening on port 16771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICeconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileTKvbay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16833/devtools/browser/749ac538-9137-4425-95d9-05fce912fbbb
+1646445617340	Marionette	INFO	Listening on port 16874
+1646445617385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646445904519	Marionette	INFO	Stopped listening on port 16874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilempXtJU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16990/devtools/browser/a690f7b9-7493-4919-a76a-d79a87efeae2
+1646445726552	Marionette	INFO	Listening on port 16998
+1646445726961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646445904531	Marionette	INFO	Stopped listening on port 16998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+w NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHNPD7y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:17095/devtools/browser/3a56bc01-bc25-43d5-b37d-aeed2d7ac37c
+1646445741082	Marionette	INFO	Listening on port 17103
+1646445741583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646445904491	Marionette	INFO	Stopped listening on port 17103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+pData\\Local\\Temp\\rust_mozprofileLwtUvC"
+1646445805744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLwtUvC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:17204/devtools/browser/ca33d5c2-7e1e-473a-8d40-0eb315535adf
+1646445810331	Marionette	INFO	Listening on port 17209
+1646445810701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646445904545	Marionette	INFO	Stopped listening on port 17209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+vTools listening on ws://localhost:17311/devtools/browser/d2c65345-3d5d-4193-9f68-e1b92d164c67
+1646445827593	Marionette	INFO	Listening on port 17316
+1646445827965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646445904495	Marionette	INFO	Stopped listening on port 17311646445904672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, me1646445905196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilexn7oL6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:17391/devtools/browser/e7b86cfa-d6d1-4b77-9e64-c6c00830c45d
+1646445909877	Marionette	INFO	Listening on port 17401
+1646445910046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646446684609	Marionette	INFO	Stopped listening on port 17401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+vTools listening on ws://localhost:17531/devtools/browser/b34d0c42-c6a6-4d66-9a83-1c5e38c7b517
+1646446075455	Marionette	INFO	Listening on port 17536
+1646446075675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1646446683767	Marionette	INFO	Stopped listening on port 17536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+vTools listening on ws://localhost:17704/devtools/browser/43337ef5-4dcd-4e7d-bb9d-704baa8d90b4
+1646446149306	Marionette	INFO	Listening on port 17709
+1646446149652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: services.settings: main/top-sites Signature verified failed. Retry from scratch
+1646446682917	Marionette	INFO	Stopped listening on port 17709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

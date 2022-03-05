@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-045GO1EE",
+    "children" : [ {
+      "name" : "2424-MainThread",
+      "children" : [ {
+        "name" : "打开百度搜索测试",
+        "uid" : "aa35765279c84b8f",
+        "parentUid" : "3e53c1863245020a8cdc289bd9c97890",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646446149950,
+          "stop" : 1646446156055,
+          "duration" : 6105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e53c1863245020a8cdc289bd9c97890"
+    } ],
+    "uid" : "19f8a8fb21ce64baab108608fb8c99cb"
+  } ]
+}
